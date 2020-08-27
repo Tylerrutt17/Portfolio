@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2718aee6ba0b222390711fb51fc857f",
+    "revision": "d6e8bddf2caca4ac9e798dc321d02d48",
     "url": "/Portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "8c6403968bfb0dbcf5e1",
+    "revision": "a006f0b6f6607581669c",
     "url": "/Portfolio/static/css/main.9fc689ea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/js/2.ff5694e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c6403968bfb0dbcf5e1",
-    "url": "/Portfolio/static/js/main.d75ffef8.chunk.js"
+    "revision": "a006f0b6f6607581669c",
+    "url": "/Portfolio/static/js/main.b30a4b06.chunk.js"
   },
   {
     "revision": "7a7f40801c00785ae664",
@@ -29,6 +29,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "0c393b9ebbacc33c3ec350a359917c0d",
-    "url": "/Portfolio/static/media/resume.0c393b9e.pdf"
+    "url": "/Portfolio/static/media/tyler_rutt_resume.0c393b9e.pdf"
   }
 ]);
